@@ -24,3 +24,6 @@ Route::get('clear', function () {
 # Laravel Form Documentation
 https://laravelcollective.com/docs/6.x/html
 
+#change php version
+sudo update-alternatives --config php
+
